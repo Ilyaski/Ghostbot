@@ -1,9 +1,8 @@
 
 <p align="center"> 
-<u>♥️ ᴀɴ ᴡʜᴀᴛsᴀᴘᴘ ᴜsᴇʀ ʙᴏᴛ ʙʏ ᴍʀ ɴɪᴍᴀ ♥️</u>
 </p>
 <p align="center">
-<img src="https://i.ibb.co/N6CRT1b/ghost2.jpg)" width="300" height="300"/>
+<img src="https://i.ibb.co/N6CRT1b/ghost2.jpg)"
 </p>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=QUEEN+ELISA+WHATSAPP+BOT" alt="">
@@ -79,15 +78,6 @@ Queen elisa whatsapp bot is,
    
    
 # 
-#
-+ DEPLOY STEPS
-# 
-1. Fork This Repository 
-2. Update [settings.js]()
-3. Uplode creds.json file to sessions folder
-4. Make acount on your host
-5. Connect Your Repository to your web host site
-6. [Watch Videos](http://youtube.com/mrnimaofc)
 # 
 # 
 ### [ DEPLY ON TERMUX ]
@@ -128,16 +118,6 @@ npm start
 </details>
 <details>
 <summary>🌐 Support For Deploy </summary>
-<p>
-</details>
-THANAKS FOR USNING QUEEN ELISA 💃💖
-
-* [🧑‍💻 Join Queen Elisa Support Group 🧑‍💻](https://t.me/+Fc2vyKYBjFk3ZWZl)
-
-* [🦄 Join Public Group 🦄](https://chat.whatsapp.com/BbIpvkRD4qP6xKckb8cpT0)
-
-     
-       ⚠️ We are not responsible for any inconvenience caused by your mistakes!   | ඔබගේ අත්වැරදීම් නිසා සිදුවන අපහසුතාවයන් සඳහා අප වගකිවයනු නොලැබේ !
 
   
   #### ```TOTAL PROFILE VIEWS 🧚```
