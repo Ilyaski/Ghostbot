@@ -1,0 +1,2 @@
+# Ghostbot
+Ghost 👻 bot 
